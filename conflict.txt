@@ -1,2 +1,2 @@
 컨플릭트 테스트
-PR 테스트
+pull request 테스트
